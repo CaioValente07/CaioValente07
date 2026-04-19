@@ -142,7 +142,7 @@ public class Caio {
 
 <div align="center">
 
-*"Todo especialista já foi um iniciante. Continue codando."*
+*Cada bug é um passo mais perto da versão final.*
 
 <br/>
 
