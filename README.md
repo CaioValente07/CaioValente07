@@ -117,30 +117,8 @@ public class Caio {
 ---
 
 ## 🗺️ Jornada de Aprendizado
+![Jornada de Aprendizado](./jornada.svg)
 
-```
-2023 ──── Fundamentos de Lógica & Algoritmos
-             │
-             ▼
-          Linguagens de Baixo Nível ── C & C++
-             │
-             ▼
-          POO & Estrutura ── Java
-             │
-             ▼
-2024 ──── Desenvolvimento Web ── HTML · CSS · JS
-             │
-             ▼
-          Frameworks & Design ── Tailwind · Bootstrap · Figma
-             │
-             ▼
-2025 ──── Back-end Web ── PHP
-             │
-             ▼
-          ??? ── O próximo capítulo começa aqui...
-```
-
----
 
 ## 🎯 Metas & Progresso
 
