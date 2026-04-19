@@ -1,0 +1,64 @@
+<svg width="860" height="390" viewBox="0 0 860 390" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+
+  <!-- Background -->
+  <rect width="860" height="390" rx="16" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="430" y="46" text-anchor="middle" font-size="20" font-weight="700" fill="#e6edf3">📊 Distribuição por Linguagem</text>
+  <line x1="50" y1="62" x2="810" y2="62" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="80" y="88" font-size="11" font-weight="600" fill="#484f58" letter-spacing="0.08em">LINGUAGEM</text>
+  <text x="430" y="88" font-size="11" font-weight="600" fill="#484f58" letter-spacing="0.08em">DISTRIBUIÇÃO</text>
+  <text x="810" y="88" text-anchor="end" font-size="11" font-weight="600" fill="#484f58" letter-spacing="0.08em">%</text>
+  <line x1="50" y1="96" x2="810" y2="96" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ── Row 1: Java 30% ── -->
+  <rect x="50" y="104" width="760" height="42" rx="8" fill="#161b22"/>
+  <circle cx="72" cy="125" r="5" fill="#ED8B00"/>
+  <text x="88" y="130" font-size="13" font-weight="500" fill="#e6edf3">Java</text>
+  <rect x="380" y="119" width="360" height="10" rx="5" fill="#21262d"/>
+  <rect x="380" y="119" width="108" height="10" rx="5" fill="#ED8B00"/>
+  <text x="755" y="130" text-anchor="end" font-size="13" font-weight="600" fill="#ED8B00">30%</text>
+
+  <!-- ── Row 2: HTML5 20% ── -->
+  <rect x="50" y="152" width="760" height="42" rx="8" fill="#0d1117"/>
+  <circle cx="72" cy="173" r="5" fill="#E34F26"/>
+  <text x="88" y="178" font-size="13" font-weight="500" fill="#e6edf3">HTML5</text>
+  <rect x="380" y="167" width="360" height="10" rx="5" fill="#21262d"/>
+  <rect x="380" y="167" width="72" height="10" rx="5" fill="#E34F26"/>
+  <text x="755" y="178" text-anchor="end" font-size="13" font-weight="600" fill="#E34F26">20%</text>
+
+  <!-- ── Row 3: Tailwind CSS 20% ── -->
+  <rect x="50" y="200" width="760" height="42" rx="8" fill="#161b22"/>
+  <circle cx="72" cy="221" r="5" fill="#1D9E75"/>
+  <text x="88" y="226" font-size="13" font-weight="500" fill="#e6edf3">Tailwind CSS</text>
+  <rect x="380" y="215" width="360" height="10" rx="5" fill="#21262d"/>
+  <rect x="380" y="215" width="72" height="10" rx="5" fill="#1D9E75"/>
+  <text x="755" y="226" text-anchor="end" font-size="13" font-weight="600" fill="#1D9E75">20%</text>
+
+  <!-- ── Row 4: C++ 10% ── -->
+  <rect x="50" y="248" width="760" height="42" rx="8" fill="#0d1117"/>
+  <circle cx="72" cy="269" r="5" fill="#534AB7"/>
+  <text x="88" y="274" font-size="13" font-weight="500" fill="#e6edf3">C++</text>
+  <rect x="380" y="263" width="360" height="10" rx="5" fill="#21262d"/>
+  <rect x="380" y="263" width="36" height="10" rx="5" fill="#534AB7"/>
+  <text x="755" y="274" text-anchor="end" font-size="13" font-weight="600" fill="#534AB7">10%</text>
+
+  <!-- ── Row 5: CSS3 10% ── -->
+  <rect x="50" y="296" width="760" height="42" rx="8" fill="#161b22"/>
+  <circle cx="72" cy="317" r="5" fill="#1572B6"/>
+  <text x="88" y="322" font-size="13" font-weight="500" fill="#e6edf3">CSS3</text>
+  <rect x="380" y="311" width="360" height="10" rx="5" fill="#21262d"/>
+  <rect x="380" y="311" width="36" height="10" rx="5" fill="#1572B6"/>
+  <text x="755" y="322" text-anchor="end" font-size="13" font-weight="600" fill="#1572B6">10%</text>
+
+  <!-- ── Row 6: Outros 10% ── -->
+  <rect x="50" y="344" width="760" height="42" rx="8" fill="#0d1117"/>
+  <circle cx="72" cy="365" r="5" fill="#888780"/>
+  <text x="88" y="370" font-size="13" font-weight="500" fill="#e6edf3">Outros</text>
+  <rect x="380" y="359" width="360" height="10" rx="5" fill="#21262d"/>
+  <rect x="380" y="359" width="36" height="10" rx="5" fill="#888780"/>
+  <text x="755" y="370" text-anchor="end" font-size="13" font-weight="600" fill="#888780">10%</text>
+
+</svg>
