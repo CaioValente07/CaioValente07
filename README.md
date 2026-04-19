@@ -158,16 +158,6 @@ public class Caio {
 
 ---
 
-## 🏆 Conquistas GitHub
-
-<div align="center">
-
-![Troféus](https://github-profile-trophy.vercel.app/?username=caio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
-
-</div>
-
----
-
 ## 📅 Atividade Recente
 
 <div align="center">
