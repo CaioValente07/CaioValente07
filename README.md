@@ -124,14 +124,7 @@ public class Caio {
 
 <div align="center">
 
-| Meta | Progresso | Status |
-|------|-----------|--------|
-| Dominar Java & POO | `████████████████░░░░` 80% | 🔄 Em andamento |
-| Projetos Full-Stack PHP | `████████░░░░░░░░░░░░` 40% | 🔄 Em andamento |
-| Prototipação com Figma | `████████████░░░░░░░░` 60% | 🔄 Em andamento |
-| Contribuir com Open Source | `████░░░░░░░░░░░░░░░░` 20% | 📋 Planejado |
-| Clean Code & Boas Práticas | `████████░░░░░░░░░░░░` 40% | 🔄 Em andamento |
-
+<img src="./metas.svg" alt="Metas e Progresso" />
 </div>
 
 ---
