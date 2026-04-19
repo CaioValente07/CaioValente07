@@ -1,0 +1,179 @@
+<svg width="860" height="520" viewBox="0 0 860 520" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+
+  <!-- Background -->
+  <rect width="860" height="520" rx="16" fill="#0d1117"/>
+
+  <!-- ╔══════════════════════════════╗ -->
+  <!-- ║   CARD ESQUERDO — STATS     ║ -->
+  <!-- ╚══════════════════════════════╝ -->
+  <rect x="30" y="30" width="380" height="220" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <!-- título -->
+  <text x="54" y="62" font-size="14" font-weight="600" fill="#e6edf3">Estatísticas de Caio</text>
+  <line x1="54" y1="72" x2="390" y2="72" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- Total contribuições -->
+  <text x="54" y="100" font-size="12" fill="#8b949e">Contribuições totais</text>
+  <text x="390" y="100" text-anchor="end" font-size="13" font-weight="600" fill="#00D4AA">10</text>
+
+  <!-- Repositórios públicos -->
+  <text x="54" y="126" font-size="12" fill="#8b949e">Repositórios públicos</text>
+  <text x="390" y="126" text-anchor="end" font-size="13" font-weight="600" fill="#e6edf3">—</text>
+
+  <!-- Commits este ano -->
+  <text x="54" y="152" font-size="12" fill="#8b949e">Commits este ano</text>
+  <text x="390" y="152" text-anchor="end" font-size="13" font-weight="600" fill="#e6edf3">10</text>
+
+  <!-- Stars ganhos -->
+  <text x="54" y="178" font-size="12" fill="#8b949e">Stars ganhos</text>
+  <text x="390" y="178" text-anchor="end" font-size="13" font-weight="600" fill="#e6edf3">—</text>
+
+  <!-- PRs -->
+  <text x="54" y="204" font-size="12" fill="#8b949e">Pull requests</text>
+  <text x="390" y="204" text-anchor="end" font-size="13" font-weight="600" fill="#e6edf3">—</text>
+
+  <!-- barra de progresso nível -->
+  <text x="54" y="232" font-size="11" fill="#484f58">NÍVEL · Iniciante</text>
+  <rect x="54" y="238" width="336" height="6" rx="3" fill="#21262d"/>
+  <rect x="54" y="238" width="100" height="6" rx="3" fill="#00D4AA"/>
+
+
+  <!-- ╔══════════════════════════════╗ -->
+  <!-- ║   CARD DIREITO — LINGUAGENS ║ -->
+  <!-- ╚══════════════════════════════╝ -->
+  <rect x="450" y="30" width="380" height="220" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <text x="474" y="62" font-size="14" font-weight="600" fill="#e6edf3">Linguagens mais usadas</text>
+  <line x1="474" y1="72" x2="810" y2="72" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- Java -->
+  <circle cx="482" cy="98" r="4" fill="#ED8B00"/>
+  <text x="496" y="102" font-size="12" fill="#e6edf3">Java</text>
+  <rect x="590" y="91" width="180" height="8" rx="4" fill="#21262d"/>
+  <rect x="590" y="91" width="90" height="8" rx="4" fill="#ED8B00"/>
+  <text x="778" y="102" text-anchor="end" font-size="11" font-weight="600" fill="#ED8B00">30%</text>
+
+  <!-- PHP -->
+  <circle cx="482" cy="122" r="4" fill="#777BB4"/>
+  <text x="496" y="126" font-size="12" fill="#e6edf3">PHP</text>
+  <rect x="590" y="115" width="180" height="8" rx="4" fill="#21262d"/>
+  <rect x="590" y="115" width="36" height="8" rx="4" fill="#777BB4"/>
+  <text x="778" y="126" text-anchor="end" font-size="11" font-weight="600" fill="#777BB4">12%</text>
+
+  <!-- HTML5 -->
+  <circle cx="482" cy="146" r="4" fill="#E34F26"/>
+  <text x="496" y="150" font-size="12" fill="#e6edf3">HTML5</text>
+  <rect x="590" y="139" width="180" height="8" rx="4" fill="#21262d"/>
+  <rect x="590" y="139" width="54" height="8" rx="4" fill="#E34F26"/>
+  <text x="778" y="150" text-anchor="end" font-size="11" font-weight="600" fill="#E34F26">18%</text>
+
+  <!-- Tailwind -->
+  <circle cx="482" cy="170" r="4" fill="#1D9E75"/>
+  <text x="496" y="174" font-size="12" fill="#e6edf3">Tailwind CSS</text>
+  <rect x="590" y="163" width="180" height="8" rx="4" fill="#21262d"/>
+  <rect x="590" y="163" width="45" height="8" rx="4" fill="#1D9E75"/>
+  <text x="778" y="174" text-anchor="end" font-size="11" font-weight="600" fill="#1D9E75">15%</text>
+
+  <!-- C++ -->
+  <circle cx="482" cy="194" r="4" fill="#534AB7"/>
+  <text x="496" y="198" font-size="12" fill="#e6edf3">C++</text>
+  <rect x="590" y="187" width="180" height="8" rx="4" fill="#21262d"/>
+  <rect x="590" y="187" width="27" height="8" rx="4" fill="#534AB7"/>
+  <text x="778" y="198" text-anchor="end" font-size="11" font-weight="600" fill="#534AB7">9%</text>
+
+  <!-- CSS / JS -->
+  <circle cx="482" cy="218" r="4" fill="#1572B6"/>
+  <text x="496" y="222" font-size="12" fill="#e6edf3">CSS · JS</text>
+  <rect x="590" y="211" width="180" height="8" rx="4" fill="#21262d"/>
+  <rect x="590" y="211" width="48" height="8" rx="4" fill="#1572B6"/>
+  <text x="778" y="222" text-anchor="end" font-size="11" font-weight="600" fill="#1572B6">16%</text>
+
+
+  <!-- ╔══════════════════════════════════════════════════╗ -->
+  <!-- ║   CARD INFERIOR — STREAK / ATIVIDADE            ║ -->
+  <!-- ╚══════════════════════════════════════════════════╝ -->
+  <rect x="30" y="276" width="800" height="214" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <text x="54" y="308" font-size="14" font-weight="600" fill="#e6edf3">Sequência de contribuições · 2025</text>
+  <line x1="54" y1="318" x2="810" y2="318" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- Métricas streak -->
+  <!-- Sequência atual -->
+  <rect x="54" y="334" width="220" height="70" rx="8" fill="#0d1117"/>
+  <text x="164" y="362" text-anchor="middle" font-size="11" fill="#484f58" letter-spacing="0.06em">SEQUÊNCIA ATUAL</text>
+  <text x="164" y="390" text-anchor="middle" font-size="28" font-weight="700" fill="#00D4AA">1 dia</text>
+
+  <!-- Total contribuições -->
+  <rect x="320" y="334" width="220" height="70" rx="8" fill="#0d1117"/>
+  <text x="430" y="362" text-anchor="middle" font-size="11" fill="#484f58" letter-spacing="0.06em">TOTAL DE CONTRIBUIÇÕES</text>
+  <text x="430" y="390" text-anchor="middle" font-size="28" font-weight="700" fill="#e6edf3">10</text>
+
+  <!-- Maior sequência -->
+  <rect x="586" y="334" width="220" height="70" rx="8" fill="#0d1117"/>
+  <text x="696" y="362" text-anchor="middle" font-size="11" fill="#484f58" letter-spacing="0.06em">MAIOR SEQUÊNCIA</text>
+  <text x="696" y="390" text-anchor="middle" font-size="28" font-weight="700" fill="#e6edf3">1 dia</text>
+
+  <!-- Mini grade de atividade — 10 commits espalhados -->
+  <text x="54" y="430" font-size="11" fill="#484f58" letter-spacing="0.06em">GRADE DE ATIVIDADE</text>
+
+  <!-- semanas (colunas) × dias (linhas): 52 colunas, 7 linhas, célula 12x12 gap 3 -->
+  <!-- Vou gerar 52 colunas × 7 dias = células 13x13 com gap 2, começando em x=54 y=440 -->
+  <!-- Células vazias = #161b22, com commit = tons de verde -->
+
+  <!-- Para representar 10 commits em posições espalhadas, marco manualmente algumas células -->
+
+  <!-- Linha de meses -->
+  <text x="54"  y="442" font-size="9" fill="#484f58">Jan</text>
+  <text x="148" y="442" font-size="9" fill="#484f58">Fev</text>
+  <text x="238" y="442" font-size="9" fill="#484f58">Mar</text>
+  <text x="328" y="442" font-size="9" fill="#484f58">Abr</text>
+  <text x="418" y="442" font-size="9" fill="#484f58">Mai</text>
+  <text x="508" y="442" font-size="9" fill="#484f58">Jun</text>
+  <text x="598" y="442" font-size="9" fill="#484f58">Jul</text>
+  <text x="688" y="442" font-size="9" fill="#484f58">Ago</text>
+
+  <!-- Grade simplificada: 52 colunas × 7 linhas de quadradinhos 11x11 gap 2 -->
+  <!-- Gero todas as células como vazias primeiro (via rect grande não dá, precisa ser individual) -->
+  <!-- Vou usar uma abordagem com faixas horizontais -->
+
+  <!-- Fundo da grade completa — todas 52 semanas × 7 dias -->
+  <!-- Linha 0 (Dom) -->
+  <rect x="54" y="448" width="754" height="11" rx="2" fill="#161b22"/>
+  <!-- Linha 1 (Seg) -->
+  <rect x="54" y="461" width="754" height="11" rx="2" fill="#161b22"/>
+  <!-- Linha 2 (Ter) -->
+  <rect x="54" y="474" width="754" height="11" rx="2" fill="#161b22"/>
+  <!-- Linha 3 (Qua) -->
+  <rect x="54" y="487" width="754" height="11" rx="2" fill="#161b22"/>
+
+  <!-- Commits ativos — 10 células coloridas individualmente (13px step) -->
+  <!-- semana 2, seg -->
+  <rect x="80"  y="461" width="11" height="11" rx="2" fill="#00D4AA"/>
+  <!-- semana 5, qua -->
+  <rect x="119" y="474" width="11" height="11" rx="2" fill="#1D9E75"/>
+  <!-- semana 8, dom -->
+  <rect x="158" y="448" width="11" height="11" rx="2" fill="#00D4AA"/>
+  <!-- semana 10, ter -->
+  <rect x="184" y="474" width="11" height="11" rx="2" fill="#0F6E56"/>
+  <!-- semana 14, seg -->
+  <rect x="236" y="461" width="11" height="11" rx="2" fill="#1D9E75"/>
+  <!-- semana 18, qua -->
+  <rect x="288" y="487" width="11" height="11" rx="2" fill="#00D4AA"/>
+  <!-- semana 22, dom -->
+  <rect x="340" y="448" width="11" height="11" rx="2" fill="#1D9E75"/>
+  <!-- semana 26, ter -->
+  <rect x="392" y="474" width="11" height="11" rx="2" fill="#0F6E56"/>
+  <!-- semana 30, seg -->
+  <rect x="444" y="461" width="11" height="11" rx="2" fill="#00D4AA"/>
+  <!-- semana 35, qua -->
+  <rect x="509" y="487" width="11" height="11" rx="2" fill="#1D9E75"/>
+
+  <!-- Legenda -->
+  <text x="54"  y="510" font-size="9" fill="#484f58">menos</text>
+  <rect x="96"  y="502" width="9" height="9" rx="2" fill="#161b22"/>
+  <rect x="108" y="502" width="9" height="9" rx="2" fill="#0F6E56"/>
+  <rect x="120" y="502" width="9" height="9" rx="2" fill="#1D9E75"/>
+  <rect x="132" y="502" width="9" height="9" rx="2" fill="#00D4AA"/>
+  <text x="144" y="510" font-size="9" fill="#484f58">mais</text>
+
+</svg>
