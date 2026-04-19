@@ -1,0 +1,71 @@
+<svg width="860" height="360" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+
+  <!-- Background -->
+  <rect width="860" height="360" rx="16" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="430" y="46" text-anchor="middle" font-size="20" font-weight="700" fill="#e6edf3">🎯 Metas &amp; Progresso</text>
+  <line x1="50" y1="62" x2="810" y2="62" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Header row -->
+  <text x="80" y="90" font-size="11" font-weight="600" fill="#484f58" letter-spacing="0.08em">META</text>
+  <text x="530" y="90" font-size="11" font-weight="600" fill="#484f58" letter-spacing="0.08em">PROGRESSO</text>
+  <text x="790" y="90" text-anchor="end" font-size="11" font-weight="600" fill="#484f58" letter-spacing="0.08em">STATUS</text>
+  <line x1="50" y1="98" x2="810" y2="98" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ── Row 1: Java & POO — 80% ── -->
+  <rect x="50" y="108" width="760" height="46" rx="8" fill="#161b22"/>
+  <!-- icon dot -->
+  <circle cx="72" cy="131" r="5" fill="#1D9E75"/>
+  <text x="88" y="136" font-size="13" font-weight="500" fill="#e6edf3">Dominar Java &amp; POO</text>
+  <!-- bar bg -->
+  <rect x="430" y="122" width="280" height="10" rx="5" fill="#21262d"/>
+  <!-- bar fill -->
+  <rect x="430" y="122" width="224" height="10" rx="5" fill="#1D9E75"/>
+  <!-- percent -->
+  <text x="720" y="133" font-size="12" font-weight="600" fill="#1D9E75">80%</text>
+  <!-- status -->
+  <rect x="745" y="120" width="62" height="22" rx="11" fill="#1a2a1e" stroke="#1D9E75" stroke-width="0.8"/>
+  <text x="776" y="135" text-anchor="middle" font-size="10" font-weight="600" fill="#1D9E75">andamento</text>
+
+  <!-- ── Row 2: PHP — 40% ── -->
+  <rect x="50" y="162" width="760" height="46" rx="8" fill="#0d1117"/>
+  <circle cx="72" cy="185" r="5" fill="#534AB7"/>
+  <text x="88" y="190" font-size="13" font-weight="500" fill="#e6edf3">Projetos Full-Stack PHP</text>
+  <rect x="430" y="176" width="280" height="10" rx="5" fill="#21262d"/>
+  <rect x="430" y="176" width="112" height="10" rx="5" fill="#534AB7"/>
+  <text x="720" y="187" font-size="12" font-weight="600" fill="#534AB7">40%</text>
+  <rect x="745" y="174" width="62" height="22" rx="11" fill="#1a2338" stroke="#534AB7" stroke-width="0.8"/>
+  <text x="776" y="189" text-anchor="middle" font-size="10" font-weight="600" fill="#9b8fe8">andamento</text>
+
+  <!-- ── Row 3: Figma — 60% ── -->
+  <rect x="50" y="216" width="760" height="46" rx="8" fill="#161b22"/>
+  <circle cx="72" cy="239" r="5" fill="#1D9E75"/>
+  <text x="88" y="244" font-size="13" font-weight="500" fill="#e6edf3">Prototipação com Figma</text>
+  <rect x="430" y="230" width="280" height="10" rx="5" fill="#21262d"/>
+  <rect x="430" y="230" width="168" height="10" rx="5" fill="#1D9E75"/>
+  <text x="720" y="241" font-size="12" font-weight="600" fill="#1D9E75">60%</text>
+  <rect x="745" y="228" width="62" height="22" rx="11" fill="#1a2a1e" stroke="#1D9E75" stroke-width="0.8"/>
+  <text x="776" y="243" text-anchor="middle" font-size="10" font-weight="600" fill="#1D9E75">andamento</text>
+
+  <!-- ── Row 4: Open Source — 20% ── -->
+  <rect x="50" y="270" width="760" height="46" rx="8" fill="#0d1117"/>
+  <circle cx="72" cy="293" r="5" fill="#EF9F27"/>
+  <text x="88" y="298" font-size="13" font-weight="500" fill="#e6edf3">Contribuir com Open Source</text>
+  <rect x="430" y="284" width="280" height="10" rx="5" fill="#21262d"/>
+  <rect x="430" y="284" width="56" height="10" rx="5" fill="#EF9F27"/>
+  <text x="720" y="295" font-size="12" font-weight="600" fill="#EF9F27">20%</text>
+  <rect x="745" y="282" width="62" height="22" rx="11" fill="#1f1a10" stroke="#EF9F27" stroke-width="0.8"/>
+  <text x="776" y="297" text-anchor="middle" font-size="10" font-weight="600" fill="#EF9F27">planejado</text>
+
+  <!-- ── Row 5: Clean Code — 40% ── -->
+  <rect x="50" y="324" width="760" height="46" rx="8" fill="#161b22"/>
+  <circle cx="72" cy="347" r="5" fill="#534AB7"/>
+  <text x="88" y="352" font-size="13" font-weight="500" fill="#e6edf3">Clean Code &amp; Boas Práticas</text>
+  <rect x="430" y="338" width="280" height="10" rx="5" fill="#21262d"/>
+  <rect x="430" y="338" width="112" height="10" rx="5" fill="#534AB7"/>
+  <text x="720" y="349" font-size="12" font-weight="600" fill="#534AB7">40%</text>
+  <rect x="745" y="336" width="62" height="22" rx="11" fill="#1a2338" stroke="#534AB7" stroke-width="0.8"/>
+  <text x="776" y="351" text-anchor="middle" font-size="10" font-weight="600" fill="#9b8fe8">andamento</text>
+
+</svg>
