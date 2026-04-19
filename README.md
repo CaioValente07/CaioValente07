@@ -86,13 +86,9 @@ public class Caio {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=caio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4AA&text_color=c9d1d9&bg_color=0d1117"/>
-
-<br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=caio&theme=tokyonight&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&background=0d1117)
+<div align="center">
+  <img src="./stats.svg" alt="Estatísticas GitHub" />
+</div>
 
 </div>
 
@@ -136,11 +132,10 @@ public class Caio {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-valente)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiovitorvalente1404@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caio)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caio._vlnt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caioValente07)
 </div>
 
 ---
