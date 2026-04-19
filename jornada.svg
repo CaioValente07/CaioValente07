@@ -1,0 +1,51 @@
+<svg width="600" height="420" viewBox="0 0 600 420" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+
+  <!-- Background -->
+  <rect width="600" height="420" rx="12" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="30" y="40" font-size="15" font-weight="600" fill="#e6edf3">Jornada de Aprendizado</text>
+  <line x1="30" y1="52" x2="570" y2="52" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Step 1 -->
+  <circle cx="44" cy="88" r="14" fill="#1a2a1e" stroke="#1D9E75" stroke-width="1.5"/>
+  <text x="44" y="93" text-anchor="middle" font-size="9" font-weight="600" fill="#1D9E75">2023</text>
+  <line x1="44" y1="102" x2="44" y2="130" stroke="#21262d" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="70" y="85" font-size="13" font-weight="600" fill="#e6edf3">Fundamentos</text>
+  <text x="70" y="102" font-size="11" fill="#8b949e">Lógica, algoritmos · C e C++</text>
+
+  <!-- Step 2 -->
+  <circle cx="44" cy="148" r="14" fill="#1a2a1e" stroke="#1D9E75" stroke-width="1.5"/>
+  <text x="44" y="153" text-anchor="middle" font-size="9" font-weight="600" fill="#1D9E75">2023</text>
+  <line x1="44" y1="162" x2="44" y2="190" stroke="#21262d" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="70" y="145" font-size="13" font-weight="600" fill="#e6edf3">POO &amp; Estrutura</text>
+  <text x="70" y="162" font-size="11" fill="#8b949e">Orientação a objetos com Java</text>
+
+  <!-- Step 3 -->
+  <circle cx="44" cy="208" r="14" fill="#1a2338" stroke="#534AB7" stroke-width="1.5"/>
+  <text x="44" y="213" text-anchor="middle" font-size="9" font-weight="600" fill="#9b8fe8">2024</text>
+  <line x1="44" y1="222" x2="44" y2="250" stroke="#21262d" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="70" y="205" font-size="13" font-weight="600" fill="#e6edf3">Desenvolvimento Web</text>
+  <text x="70" y="222" font-size="11" fill="#8b949e">HTML · CSS · JavaScript</text>
+
+  <!-- Step 4 -->
+  <circle cx="44" cy="268" r="14" fill="#1a2338" stroke="#534AB7" stroke-width="1.5"/>
+  <text x="44" y="273" text-anchor="middle" font-size="9" font-weight="600" fill="#9b8fe8">2024</text>
+  <line x1="44" y1="282" x2="44" y2="310" stroke="#21262d" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="70" y="265" font-size="13" font-weight="600" fill="#e6edf3">Frameworks &amp; Design</text>
+  <text x="70" y="282" font-size="11" fill="#8b949e">Tailwind · Bootstrap · Figma</text>
+
+  <!-- Step 5 -->
+  <circle cx="44" cy="328" r="14" fill="#1f1a10" stroke="#EF9F27" stroke-width="1.5"/>
+  <text x="44" y="333" text-anchor="middle" font-size="9" font-weight="600" fill="#EF9F27">2025</text>
+  <line x1="44" y1="342" x2="44" y2="370" stroke="#21262d" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="70" y="325" font-size="13" font-weight="600" fill="#e6edf3">Back-end</text>
+  <text x="70" y="342" font-size="11" fill="#8b949e">PHP e integração server-side</text>
+
+  <!-- Step 6 (last) -->
+  <circle cx="44" cy="388" r="14" fill="#21262d" stroke="#484f58" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <text x="44" y="393" text-anchor="middle" font-size="11" font-weight="600" fill="#484f58">?</text>
+  <text x="70" y="385" font-size="13" font-weight="600" fill="#484f58">Próximo capítulo</text>
+  <text x="70" y="402" font-size="11" fill="#484f58">Em construção...</text>
+
+</svg>
