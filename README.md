@@ -121,9 +121,7 @@ public class Caio {
 ## 📅 Atividade Recente
 
 <div align="center">
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=caio&theme=tokyo-night&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area=true&hide_border=true)](https://github.com/caio)
-
+  <img src="./atividade.svg" alt="Atividade Recente" />
 </div>
 
 ---
